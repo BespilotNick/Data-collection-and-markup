@@ -24,7 +24,13 @@ tree = etree.parse("Seminar_4/src/web_page.html")
 #     text = ''.join(map(str.strip, li.xpath('.//text()')))
 #     print(text)
 
-list_items = tree.xpath('//ul/descendant::li')
-for li in list_items:
-    text = ''.join(map(str.strip, li.xpath('.//text()')))
-    print(text)
+# list_items = tree.xpath('//ul/descendant::li')
+# for li in list_items:
+#     text = ''.join(map(str.strip, li.xpath('.//text()')))
+#     print(text)
+
+
+html = tree.getroot()
+
+title_element = html.cssselect('title')
+print(title_element[0].text)
