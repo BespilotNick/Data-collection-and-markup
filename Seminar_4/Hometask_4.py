@@ -32,17 +32,16 @@ rows = page.xpath('//table[@class="W(100%)"]/tbody/tr')
 
 my_list = []
 for row in rows:
-    every_row = row.xpath(".//td/text()")
     my_list.append({
-        'Symbol': row.xpath(".//td[1]/a/text()")[0].strip(),
-        'Name': every_row[0].strip(),
-        # 'Price (Intrady)': every_row[2].strip() if every_row[2].strip() != "" else 0.0,
-        # 'Change': row.xpath(".//td[4]/a/text()")[0].strip(),
-        # '% Change': every_row[5].strip(),
-        # 'Volume': every_row[7].strip(),
-        'AVG Vol (3 month)': every_row[1].strip(),
-        # 'Market Cap': every_row[9].strip(),
-        'PE Ratio (TTM)': every_row[2].strip()
+        'Symbol': row.xpath(".//td/a/text()")[0].strip(),
+        'Name': row.xpath(".//td/text()")[0].strip(),
+        'Price (Intrady)': row.xpath(".//td/fin-streamer/text()")[0].strip(),
+        'Change': row.xpath(".//td[@aria-label='Change']/fin-streamer/span/text()")[0].strip(),
+        '% Change': row.xpath(".//td[@aria-label='% Change']/fin-streamer/span/text()")[0].strip(),
+        'Volume': row.xpath(".//td[@aria-label='Volume']/fin-streamer/text()")[0].strip(),
+        'AVG Vol (3 month)': row.xpath(".//td/text()")[1].strip(),
+        'Market Cap': row.xpath(".//td[@aria-label='Market Cap']/fin-streamer/text()")[0].strip(),
+        'PE Ratio (TTM)': row.xpath(".//td/text()")[2].strip()
     })
 print(my_list)
 
