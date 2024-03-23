@@ -19,13 +19,13 @@ class BestsellersSpider(scrapy.Spider):
                 approx_sales = book.xpath('.//td[5]/text()').get()
                 genre = book.xpath('.//td[6]//a/text()').get() \
                     if book.xpath('.//td[6]//a/text()').get() else book.xpath('.//td[6]/text()').get()\
-                    if book.xpath('.//td[6]/text()').get() and book.xpath('.//td[6]/text()').get() != '\n' else 'N\A'
+                    if book.xpath('.//td[6]/text()').get() and book.xpath('.//td[6]/text()').get() != '\n' else 'N/A'
                 if name:
                     yield {
                         'Book_name': name.strip(),
                         'Author': author.strip(),
                         'Original_language': orig_language.strip(),
-                        'First_published': first_published,
+                        'First_published': first_published.strip(),
                         'Approximate_sales': approx_sales,
                         'Genre': genre.strip()
                     }
