@@ -24,11 +24,37 @@ class CountriesSpiderSpider(scrapy.Spider):
             membership = country.xpath('.//td[2][1]/text()').get()
             sovereignity_dispute = country.xpath('.//td[3][1]/text()').get()
             status = country.xpath('.//td[4]/text()').get()
+            link = country.xpath('.//b/a/@href').get()
             if name:
-                yield {
-                    'Country': name.strip() if name else 'N/A',
-                    'Membership_UN': membership.strip() if membership.strip() else 'N/A',
-                    'Sovereignity_dispute': sovereignity_dispute.strip() if sovereignity_dispute.strip() else 'N/A',
-                    'Country_status_info': status.strip() if status.strip() else 'N/A'
-                }
-            
+                # yield {
+
+                #     'Country': name.strip() if name else 'N/A',
+                #     'Membership_UN': membership.strip() if membership.strip() else 'N/A',
+                #     'Sovereignity_dispute': sovereignity_dispute.strip() if sovereignity_dispute.strip() else 'N/A',
+                #     'Country_status_info': status.strip() if status.strip() else 'N/A'
+                # }
+                yield response.follow(url = link if link else '/wiki/Zambia', 
+                                    callback = self.parse_country, 
+                                    meta = {                                 
+                                        'Country': name,
+                                        'Membership_UN': membership,
+                                        'Sovereignity_dispute': sovereignity_dispute,
+                                        'Country_status_info': status
+                                    })
+    
+
+    def parse_country(self, response):
+        rows = response.xpath('//table[contains(@class,"infobox ib-country vcard")][1]/tbody')
+        for row in rows:
+            capital = row.xpath('.//td[contains(@class, "infobox-data")]/a/text()').get()
+            name = response.request.meta['Country']
+            Membership_UN = response.meta['Membership_UN']
+            Sovereignity_dispute = response.meta['Sovereignity_dispute']
+            Country_status_info = response.meta['Country_status_info']
+            yield {
+                'Country': name,
+                'Capital': capital,
+                'Membership_UN': Membership_UN.strip(),
+                'Sovereignity_dispute': Sovereignity_dispute.strip(),
+                'Country_status_info': Country_status_info.strip()
+            }
