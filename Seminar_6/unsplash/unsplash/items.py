@@ -7,6 +7,8 @@ import scrapy
 
 
 class UnsplashItem(scrapy.Item):
-    'name' = scrapy.Field()
-    'image_urls' = scrapy.Field()
-    'images' = scrapy.Field()
+    name = scrapy.Field()
+    image_urls = scrapy.Field()
+    images = scrapy.Field()
+    categories = scrapy.Field()
+    local_path = scrapy.Field()
