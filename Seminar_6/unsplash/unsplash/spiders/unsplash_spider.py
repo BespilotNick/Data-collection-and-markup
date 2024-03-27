@@ -30,7 +30,7 @@ class UnsplashSpider(CrawlSpider):
         loader.add_value('categories', cat_list)
 
         image_link = response.xpath('//button/div/div[@class="MorZF"]/img/@src').getall()
-        loader.add_value('image_urls', image_link)
+        loader.add_value('image_url', image_link)
 
         # local_path = 'D:/GeekBrains/DATA ENGINEER/Сбор и разметка данных/Conda_projects/Seminar_6/unsplash/unsplash_imgs'
 

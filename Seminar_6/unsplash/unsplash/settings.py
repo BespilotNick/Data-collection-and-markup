@@ -67,6 +67,7 @@ RANDOMIZE_DOWNLOAD_DELAY = True
 ITEM_PIPELINES = {
    'unsplash.pipelines.CustomImagesPipeline' : 1
 }
+
 IMAGES_STORE = 'unsplash_imgs'
 
 FEED_EXPORT_FIELDS = ['name', 'categories', 'image_url']
