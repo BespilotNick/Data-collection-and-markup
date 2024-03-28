@@ -5,6 +5,8 @@ from scrapy.spiders import CrawlSpider, Rule
 from scrapy.loader import ItemLoader
 from ..items import UnsplashItem
 from itemloaders.processors import MapCompose
+import requests
+import os
 
 
 class UnsplashSpider(CrawlSpider):
@@ -30,8 +32,17 @@ class UnsplashSpider(CrawlSpider):
         loader.add_value('categories', cat_list)
 
         image_link = response.xpath('//button/div/div[@class="MorZF"]/img/@src').getall()
-        loader.add_value('image_url', image_link)
+        loader.add_value('image_urls', image_link)
+        # Или так:
+        # loader.add_xpath('image_urls', '//button/div/div[@class="MorZF"]/img/@src')
+        
+        pic = requests.get(image_link[0]).content
+        pic_name = f'images/{response.xpath("//h1/text()").get()}.jpg'
 
-        # local_path = 'D:/GeekBrains/DATA ENGINEER/Сбор и разметка данных/Conda_projects/Seminar_6/unsplash/unsplash_imgs'
+        with open(pic_name, "wb") as img:
+            img.write(pic)
+
+        loc_path = os.path.abspath(pic_name)
+        loader.add_value('local_path', loc_path)
 
         yield loader.load_item()

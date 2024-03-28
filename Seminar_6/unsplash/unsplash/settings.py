@@ -68,9 +68,9 @@ ITEM_PIPELINES = {
    'unsplash.pipelines.CustomImagesPipeline' : 1
 }
 
-IMAGES_STORE = 'unsplash_imgs'
+IMAGES_STORE = 'images'
 
-FEED_EXPORT_FIELDS = ['name', 'categories', 'image_url']
+FEED_EXPORT_FIELDS = ['name', 'categories', 'image_urls', 'local_path']
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
