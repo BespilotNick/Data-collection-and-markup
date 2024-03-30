@@ -20,6 +20,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as ec
+from bs4 import BeautifulSoup as bs
+import requests
+import urllib.parse
 import time
 import json
 
@@ -64,7 +67,7 @@ try:
 
         video_data[title] = {"views": views, "published": published}
 
-        with open('IBMTech_youtube.json', 'w', encoding='utf-8') as file:
+        with open('IBMTech_youtube_v2.json', 'w', encoding='utf-8') as file:
             json.dump(video_data, file, ensure_ascii=False, indent=4)
 
 except Exception as E:
