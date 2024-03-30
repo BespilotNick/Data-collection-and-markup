@@ -1,0 +1,3342 @@
+{
+    "Can you trust synthetic data?": {
+        "views": "2,5 тыс. просмотров",
+        "published": "1 день назад"
+    },
+    "Putting AI to Work for Marketing": {
+        "views": "3,3 тыс. просмотров",
+        "published": "3 дня назад"
+    },
+    "5 Principles of Trustworthy AI Models": {
+        "views": "12 тыс. просмотров",
+        "published": "4 дня назад"
+    },
+    "IBM Tech Now: IBM X-Force Cyber Range and the quest to combat deepfakes": {
+        "views": "1,7 тыс. просмотров",
+        "published": "5 дней назад"
+    },
+    "What is TensorFlow?": {
+        "views": "7,5 тыс. просмотров",
+        "published": "8 дней назад"
+    },
+    "What is Cloud-Native Application Protection Platforms (CNAPP)?": {
+        "views": "1,8 тыс. просмотров",
+        "published": "10 дней назад"
+    },
+    "What is Podman Desktop?": {
+        "views": "5,4 тыс. просмотров",
+        "published": "12 дней назад"
+    },
+    "What is LangChain?": {
+        "views": "47 тыс. просмотров",
+        "published": "2 недели назад"
+    },
+    "Audio-Jacking: Deep Faking Phone Calls": {
+        "views": "12 тыс. просмотров",
+        "published": "2 недели назад"
+    },
+    "How AI Impacts the Practice of Law": {
+        "views": "5,9 тыс. просмотров",
+        "published": "2 недели назад"
+    },
+    "IBM Tech Now: Trends and recommendations from the IBM X-Force Threat Intelligence Index": {
+        "views": "4,8 тыс. просмотров",
+        "published": "2 недели назад"
+    },
+    "What is an Application Platform?": {
+        "views": "6 тыс. просмотров",
+        "published": "3 недели назад"
+    },
+    "Is data management the secret to generative AI?": {
+        "views": "14 тыс. просмотров",
+        "published": "3 недели назад"
+    },
+    "The most important AI trends in 2024": {
+        "views": "109 тыс. просмотров",
+        "published": "3 недели назад"
+    },
+    "What is a Vector Database?": {
+        "views": "19 тыс. просмотров",
+        "published": "3 недели назад"
+    },
+    "Building a Cybersecurity Framework": {
+        "views": "15 тыс. просмотров",
+        "published": "4 недели назад"
+    },
+    "Cybersecurity Quiz. How Much Do You Know?": {
+        "views": "8,8 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "What is Apache Iceberg?": {
+        "views": "6,4 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "IBM Tech Now: IBM watsonx Orders, EDGE3 + watsonx, and the G2 2024 Best Software Awards": {
+        "views": "3,8 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "Artificial Intelligence: The new attack surface": {
+        "views": "23 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "Cyber Attack Trends: Global Identity Crisis": {
+        "views": "28 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "How to Build AI Systems you can Trust": {
+        "views": "7,2 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "Large Language Model Operations (LLMOps) Explained": {
+        "views": "10 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "Why Linear regression for Machine Learning?": {
+        "views": "8,4 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "AI Systems vs Traditional Coding": {
+        "views": "21 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "IBM Tech Now: The role of IBM watsonx at the GRAMMYs and IBM Security's audio-jacking experiment": {
+        "views": "1,3 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "How to Pick the Right AI Foundation Model": {
+        "views": "24 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "Tuning Your AI Model to Reduce Hallucinations": {
+        "views": "5,3 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "How to implement AI Ethics": {
+        "views": "4,8 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "Learn About Watsonx: Generative AI for Retail and Consumer Goods Businesses": {
+        "views": "5,2 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "Will AI Be Critical to Your Job and Everyday Life?": {
+        "views": "7,6 тыс. просмотров",
+        "published": "1 месяц назад"
+    },
+    "DSPM versus CSPM": {
+        "views": "2,9 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "IBM Tech Now: Think 2024, IBM Cloud Reservations and Verdantix’s Green Quandrant": {
+        "views": "1,2 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "Top 5 Cloud Misconfigurations": {
+        "views": "11 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "What is the Identity Fabric?": {
+        "views": "5,2 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "4 Methods of Prompt Engineering": {
+        "views": "73 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "Experience Report: Multimedia Generation with AI": {
+        "views": "3,5 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "Humans vs. AI. Who's better at Phishing?": {
+        "views": "7,9 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "watsonx Orchestrate Gives You Back Time in Your Day with automation and AI": {
+        "views": "3,5 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "Spring Boot versus Quarkus": {
+        "views": "25 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "Benefits of Data Observability": {
+        "views": "3,3 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "Chatbots and Customer Service": {
+        "views": "4,5 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "Data Service Strategy for Stateful Containers": {
+        "views": "2,4 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "What is a Data Contract?": {
+        "views": "6,7 тыс. просмотров",
+        "published": "2 месяца назад"
+    },
+    "2024 Cybersecurity Trends": {
+        "views": "131 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Experience Report: IaaS on z/OS": {
+        "views": "2,2 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Careers in Technology Done Well - Expert Advice": {
+        "views": "3,2 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Fight Insider Threats with AI-infused SIEM": {
+        "views": "4,3 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Passwords vs. Passkeys - FIDO Bites Back!": {
+        "views": "24 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Ten Everyday Machine Learning Use Cases": {
+        "views": "28 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Ansible vs. Python": {
+        "views": "32 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Large Language Models: How Large is Large Enough?": {
+        "views": "8,3 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "What Makes Large Language Models Expensive?": {
+        "views": "54 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Generative AI: A Conversation with Malcolm Gladwell & Darío Gil": {
+        "views": "18 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "IBM Tech Now: IBM Quantum Heron, IBM Quantum System Two and the GA of watsonx.governance": {
+        "views": "1,4 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Get Hands-on Experience with Generative AI - watsonx AI Prompt Lab": {
+        "views": "9,3 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Putting AI to Work for Application Modernization": {
+        "views": "9,1 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Say Goodbye to Busywork, Say Hello to watsonx Orchestrate": {
+        "views": "2,6 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Code Generation with AI - The New (?) Programmer Tool of Choice": {
+        "views": "36 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Linux on Mainframe? Absolutely!": {
+        "views": "6,1 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "What is XaaS?": {
+        "views": "10 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Technical Debt and Modernizing COBOL": {
+        "views": "6,6 тыс. просмотров",
+        "published": "3 месяца назад"
+    },
+    "Putting AI to work for Customer Service": {
+        "views": "11 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "6 Observability Myths in AIOps Uncovered": {
+        "views": "2,7 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Rethink customer service with AI": {
+        "views": "4 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Should You Use Open Source Large Language Models?": {
+        "views": "288 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Introducing IBM AI Academy": {
+        "views": "25 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Careers in Mainframe Development": {
+        "views": "7,9 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "FIDO Promises a Life Without Passwords": {
+        "views": "382 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "AI and Large Language Models Boost Language Translation": {
+        "views": "6,7 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Trust, transparency, and governance in the age of generative AI": {
+        "views": "10 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "3 Steps to Become Quantum Safe with Crypto-agility": {
+        "views": "2,8 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "IBM Z and Microsoft Cloud - Better Together": {
+        "views": "3,1 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "IBM Tech Now: AI vs. humans—phishing battle, IBM MQ v9.3.4 and the TrustRadius 2023 Best of Awards": {
+        "views": "1,2 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "The 7 Types of AI - And Why We Talk (Mostly) About 3 of Them": {
+        "views": "176 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Why foundation models are a paradigm shift for AI": {
+        "views": "25 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Data Analytics vs Data Science": {
+        "views": "238 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "How to Secure AI Business Models": {
+        "views": "12 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Containers vs Pods": {
+        "views": "15 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "What is Data Lineage?": {
+        "views": "8,1 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Become a value creator with generative AI": {
+        "views": "40 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Backstage.io - An Open Source Portal for Taming Developer Chaos": {
+        "views": "6,9 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "Got Sensitive Cloud Data? Data Security Posture Management Helps Protect It": {
+        "views": "2,8 тыс. просмотров",
+        "published": "4 месяца назад"
+    },
+    "IBM Tech Now: IBM and Equinix, the White House cybersecurity plan and an award for QRadar SIEM": {
+        "views": "1,3 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Hypnotized AI and Large Language Model Security": {
+        "views": "5,6 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "The Rise of Generative AI for Business": {
+        "views": "109 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Common Container Mistakes and How to Avoid Them": {
+        "views": "3,5 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "AIOps for Mainframe and Apps Better Together": {
+        "views": "1,9 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Using Retrieval Augmented Generation with a Large Language Model AI Chatbot": {
+        "views": "41 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Why GraphQL Needs API Management": {
+        "views": "2,4 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "What is a Remote Access Trojan (RAT)?": {
+        "views": "11 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Scaling AI Model Training and Inferencing Efficiently with PyTorch": {
+        "views": "4,7 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "IBM Tech Now: AI and fantasy football and generative AI tools for criminals": {
+        "views": "2,8 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Build a Chatbot with AI in 5 minutes": {
+        "views": "83 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "What is PyTorch? (Machine/Deep Learning)": {
+        "views": "16 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Will AI Help or Hurt Cybersecurity? Definitely!": {
+        "views": "17 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "What is GraphQL?": {
+        "views": "13 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Why Are There So Many Foundation Models?": {
+        "views": "18 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "IBM Tech Now: AI on IBM Z, IBM Maximo Application Suite 8.11 and IBM NS1 Connect": {
+        "views": "2,8 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Securing Your IoT Devices": {
+        "views": "17 тыс. просмотров",
+        "published": "5 месяцев назад"
+    },
+    "Containerization Strategy": {
+        "views": "12 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "Mainframe Z and AI": {
+        "views": "4,9 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "Real Story: Insider Threat Caught in Lottery Scam": {
+        "views": "2,2 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "What is Podman? How is it Different Than Docker?": {
+        "views": "31 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "How to use Generative AI for App Modernization": {
+        "views": "12 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "IBM Tech Now: The IBM Security X-Force Cloud Threat Landscape Report and IBM Intelligent Remediation": {
+        "views": "2,9 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "Machine Learning vs. Deep Learning vs. Foundation Models": {
+        "views": "38 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "What is Integration Platform as a Service (iPaaS)?": {
+        "views": "9,7 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "Five Steps to Create a New AI Model": {
+        "views": "93 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "Git for the Mainframe": {
+        "views": "8,3 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "Open Source in Action with watsonx": {
+        "views": "3,5 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "Do Chatbots Need AI?": {
+        "views": "7,2 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "IBM Tech Now: IBM watsonx Code Assistant for Z, the Cloud Migration Acceleration Program and more": {
+        "views": "4,5 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "Explained: The OWASP Top 10 for Large Language Model Applications": {
+        "views": "13 тыс. просмотров",
+        "published": "6 месяцев назад"
+    },
+    "DevOps and Mainframe Modernization": {
+        "views": "10 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "What is Kubeflow?": {
+        "views": "8,5 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "What does an Incident Response Consultant Do?": {
+        "views": "4,3 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "What is Retrieval-Augmented Generation (RAG)?": {
+        "views": "349 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "IBM Tech Now: Cloudflare Bot Management on IBM CIS and a Detection and Response Framework for MFTs": {
+        "views": "3,3 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "Cybersecurity Careers FAQ": {
+        "views": "12 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "Why Do Devs Love Python?": {
+        "views": "8 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "What is Continuous Automated Red Teaming (CART)?": {
+        "views": "3,2 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "Containers at the Edge": {
+        "views": "7,6 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "How Much Does a Data Breach Cost?": {
+        "views": "6 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "What is Shadow IT?": {
+        "views": "7,6 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "ASM and Vulnerability Management: Why you need both": {
+        "views": "2,5 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "IBM Tech Now: IBM + ESG Reporting, a New European MZR in Spain and ICCT’s “Summer of Certification”": {
+        "views": "2,4 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "How to Add AI to Your Apps Faster with Embedded AI": {
+        "views": "13 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "Cybersecurity Architecture: Response": {
+        "views": "23 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "Podman vs. Docker": {
+        "views": "56 тыс. просмотров",
+        "published": "7 месяцев назад"
+    },
+    "How Large Language Models Work": {
+        "views": "329 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "Cybersecurity Architecture: Detection": {
+        "views": "27 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "Mainframe and Containers - Fit for Purpose": {
+        "views": "2,9 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "IBM Tech Now: IBM Security's Cost of a Data Breach 2023, including key findings and recommendations": {
+        "views": "7,4 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "Cybersecurity Modernization": {
+        "views": "16 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "Cybersecurity Architecture: Data Security": {
+        "views": "31 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "NumPy vs SciPy": {
+        "views": "23 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "What is Sovereign Cloud?": {
+        "views": "5,2 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "Cybersecurity Architecture: Application Security": {
+        "views": "38 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "Data Lakehouse Architecture & Use-Cases": {
+        "views": "13 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "IBM Tech Now: IBM AIOps Insights, New IBM Turbonomic tools and the G2 Summer Reports": {
+        "views": "2,6 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "Training AI Models with Federated Learning": {
+        "views": "24 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "Cybersecurity Architecture: Networks": {
+        "views": "72 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "How To Defend Your Website Against Bad Bots - Experience Report": {
+        "views": "3,4 тыс. просмотров",
+        "published": "8 месяцев назад"
+    },
+    "What is Malware? Let's Hear the Hacker's Viewpoint": {
+        "views": "20 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "2023 Call for Code Global Challenge": {
+        "views": "4,7 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Cybersecurity Architecture: Endpoints Are the IT Front Door - Guard Them": {
+        "views": "39 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Moving Data to the Cloud - Experience Report": {
+        "views": "6,1 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "IBM Tech Now: The Age of Quantum Utility and IBM Storage Defender": {
+        "views": "3 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "What is Back Propagation": {
+        "views": "36 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Cybersecurity Architecture: Who Are You? Identity and Access Management": {
+        "views": "83 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Python Loves the Mainframe and Data Science": {
+        "views": "15 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "What is Prompt Tuning?": {
+        "views": "137 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Quantum Error Mitigation and the Path to Useful Quantum Computing": {
+        "views": "9,1 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Cybersecurity Architecture: Roles and Tools": {
+        "views": "70 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "IBM Tech Now: The X-Force Guide to Ransomware and the Center of Excellence for Generative AI": {
+        "views": "2,6 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Event-Driven Business": {
+        "views": "4,2 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Disrupting disruption with intelligent workflows": {
+        "views": "3 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Cybersecurity Architecture: Fundamentals of Confidentiality, Integrity, and Availability": {
+        "views": "77 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Generative vs Rules-Based Chatbots": {
+        "views": "15 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Social Engineering - How Bad Guys Hack Users": {
+        "views": "35 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Large Language Models Are Zero Shot Reasoners": {
+        "views": "24 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "IBM Tech Now: IBM Watson Code Assistant, IBM Hybrid Cloud Mesh, and IBM Event Automation": {
+        "views": "3,2 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "Cybersecurity Architecture: Five Principles to Follow (and One to Avoid)": {
+        "views": "244 тыс. просмотров",
+        "published": "9 месяцев назад"
+    },
+    "What is MLOps?": {
+        "views": "46 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "Developer Career Advice: Degree vs Bootcamp?": {
+        "views": "13 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "AI in Cybersecurity": {
+        "views": "62 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "Lightboard Videos: How We Make Them": {
+        "views": "24 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "Top 5 AI Myths": {
+        "views": "24 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "EDR vs. EPP vs. NGAV": {
+        "views": "9,3 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "IBM Tech Now: Think 2023 and watsonx": {
+        "views": "12 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "Asset Management for Sustainability": {
+        "views": "2,3 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "What is AsyncAPI?": {
+        "views": "12 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "How to Build Enterprise-Ready Foundation Models": {
+        "views": "49 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "Mainframe Myths Debunked in 5 Minutes": {
+        "views": "41 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "FinOps for Trustworthy Cloud Automation": {
+        "views": "7 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "Landing Your First Job in Cybersecurity": {
+        "views": "24 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "Security Operations Center (SOC) Explained": {
+        "views": "50 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "IBM Tech Now Episode: IBM Security QRadar Suite, IBM Storage Updates and Projects & Cost Estimation": {
+        "views": "4,8 тыс. просмотров",
+        "published": "10 месяцев назад"
+    },
+    "What is Endpoint Detection and Response (EDR)?": {
+        "views": "34 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "Why a Data Lakehouse Architecture": {
+        "views": "47 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "APM vs Observability": {
+        "views": "13 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "Why Large Language Models Hallucinate": {
+        "views": "150 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "Virtual Machine (VM) vs Docker": {
+        "views": "160 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "IBM Tech Now: Envizi + Turbonomic, IBM Power Updates and the IBM CIS Standard Next Plan": {
+        "views": "3,9 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "Risks of Large Language Models (LLM)": {
+        "views": "76 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "NumPy vs Pandas": {
+        "views": "118 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "AI vs Machine Learning": {
+        "views": "832 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "GraphQL vs REST: Which is Better for APIs?": {
+        "views": "169 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "What is Time Series Analysis?": {
+        "views": "123 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "IBM Tech Now: A Rise in Cyberattacks, New IBM z16 and IBM LinuxONE 4, and IBM Cloud For SAP": {
+        "views": "4 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "Why Secure DNS is Important": {
+        "views": "16 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "Application-centric Connectivity Explained": {
+        "views": "2 тыс. просмотров",
+        "published": "11 месяцев назад"
+    },
+    "What is Synthetic Data? No, It's Not \"Fake\" Data": {
+        "views": "21 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Your Encryption Isn't Quantum Safe": {
+        "views": "19 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "The Future of Digital Workers": {
+        "views": "1,4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Why Digital Workers are Unique": {
+        "views": "1,2 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Careers in Cybersecurity": {
+        "views": "429 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What are Generative AI models?": {
+        "views": "841 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Data Lakehouses Explained": {
+        "views": "67 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: Data Security Broker, IBM Db2 Warehouse and Microsoft 365 Backup as a Service": {
+        "views": "2,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Artificial Intelligence - Are We There Yet?": {
+        "views": "18 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Attended vs Unattended Automation": {
+        "views": "2,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Develop your Data Strategy": {
+        "views": "17 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Protecting Yourself from Ransomware": {
+        "views": "7,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Let's rethink IT DevOps": {
+        "views": "5,1 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Data Security: Protect your critical data (or else)": {
+        "views": "33 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Apache vs NGINX": {
+        "views": "234 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Data Literacy?": {
+        "views": "12 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "The Anatomy of an Att&ck": {
+        "views": "21 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is SOAR (Security, Orchestration, Automation & Response)": {
+        "views": "35 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: The IBM Security X-Force Threat Intelligence Index 2023": {
+        "views": "4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Threats Vulnerabilities and Exploits": {
+        "views": "8,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Security X-Force Threat Intelligence Index Trends 2023": {
+        "views": "8,4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Storage Device Tradeoffs for Energy, Cost, and Performance": {
+        "views": "2,9 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "SaaS Backup Capabilities": {
+        "views": "2,9 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Understanding Hackers": {
+        "views": "27 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: U.S. Cybersecurity Priorities, TrustRadius Winter Best of Awards and New ICCT Certs": {
+        "views": "2,6 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "How Chatbots Could Be 'Hacked' by Corpus Poisoning": {
+        "views": "10 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Denial of Service Attacks Explained": {
+        "views": "43 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Breaking legacy programs into microservices without breaking anything": {
+        "views": "12 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "User Behavior Analytics": {
+        "views": "10 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: 2023 Cybersecurity Predictions, IBM Data Fabric on AWS and Cloud Pak for Data Express": {
+        "views": "4,6 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Application Health Through Observability": {
+        "views": "3,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "How Can Storage Be More Sustainable?": {
+        "views": "2,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is the CIA Triad": {
+        "views": "29 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Python vs Julia": {
+        "views": "112 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IDE Debuggers Are A Crutch - Lessons Learned": {
+        "views": "3,3 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: 4th Gen Intel® Xeon® Processors, NPSaaS on AWS, and IBM i MERLIN": {
+        "views": "2,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Process Mining?": {
+        "views": "29 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Computational Storage?": {
+        "views": "11 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Cybersecurity Threat Hunting Explained": {
+        "views": "53 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Devs Don't Need Admin Access - Lessons Learned": {
+        "views": "7,8 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Single Sign On (SSO)": {
+        "views": "36 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What Is SIEM?": {
+        "views": "71 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "XDR (Extended Detection & Response) Explained": {
+        "views": "39 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Don't Rely on Reproducible Test Cases - Lessons Learned": {
+        "views": "2,4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Cybersecurity Trends for 2023": {
+        "views": "235 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: Turbonomic Sustainable IT Dashboard, VMware as a Service and the G2 Winter Reports": {
+        "views": "3,3 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is SaaS Backup?": {
+        "views": "5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What Makes a Strong Content Management Service?": {
+        "views": "2,8 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "PostgreSQL vs MySQL": {
+        "views": "276 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Security Role Management Best Practices": {
+        "views": "6,4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is ArgoCD": {
+        "views": "23 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Code Challenge - Find the Security Bug!": {
+        "views": "2,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "GitOps and Cloud Adoption: You Need Both": {
+        "views": "3,2 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Let's create a skilled and diverse workforce": {
+        "views": "3 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Ransomware Dilemma - Should You Pay?": {
+        "views": "5,3 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Characteristics of a Digital Worker: Identity, Planning, Context": {
+        "views": "2 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: Orchestrate + ThisWay, Lifecycle Services & the IBM Storage Price and Supply Guarantee": {
+        "views": "3 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Phishing": {
+        "views": "29 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Middleware?": {
+        "views": "75 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Don't be a Ransomware Victim!": {
+        "views": "4,4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "MySQL vs MongoDB": {
+        "views": "135 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Tech Talk: ArgoCD + Tekton = Better GitOps": {
+        "views": "6,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: 25 Years of Java, the Gartner Magic Quadrant and the TrustRadius Best Software List": {
+        "views": "2,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Quantum Serverless?": {
+        "views": "3,2 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Tech Talk: From Open Source Project to Product": {
+        "views": "7,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Ransomware?": {
+        "views": "43 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Open Liberty and Out-of-this-World Demo": {
+        "views": "2,8 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What are Quantum Primitives?": {
+        "views": "3,2 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is ASM (Attack Surface Management)?": {
+        "views": "14 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What Is Apache Spark?": {
+        "views": "112 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Quantum Machine Learning Explained": {
+        "views": "44 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Lab Tour: How IBM Develops and Tests its POWER E1080 Servers": {
+        "views": "19 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Kubernetes Operators Explained": {
+        "views": "16 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Quantum Computing and Chemistry": {
+        "views": "6,6 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: Cybersecurity Awareness Month, IBM Storage + Red Hat and IBM AI Governance": {
+        "views": "2,2 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Kubernetes vs. OpenShift": {
+        "views": "69 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Personal Disaster Quiz + Passwordless Authentication": {
+        "views": "5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Let's create an easier hiring process": {
+        "views": "3,8 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Cloud Native Apps for Java": {
+        "views": "4,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Tech Talk: What's Next in Open Source": {
+        "views": "5,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Quantum Safe?": {
+        "views": "14 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Why you need Privileged Account Management": {
+        "views": "14 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Exploratory Data Analysis": {
+        "views": "40 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "The 3 A's of Open Source Security": {
+        "views": "3,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Machine Learning Basics: Supervised v Unsupervised": {
+        "views": "13 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Gradient Descent Explained": {
+        "views": "48 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Open Source Explained": {
+        "views": "45 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: IBM Cloud Satellite on VMware, IBM i System Subscription and ICCT's Second Chance": {
+        "views": "3,8 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Tech Talk: What is Public Key Infrastructure (PKI)?": {
+        "views": "89 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Netezza Performance Server on Cloud Pak for Data": {
+        "views": "3,6 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Multi-Factor Authentication": {
+        "views": "25 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "How to make passwords more secure": {
+        "views": "32 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "R vs Python": {
+        "views": "266 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: IBM's Partnership with the US Open Tennis Championships": {
+        "views": "2,3 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Data Observability?": {
+        "views": "28 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Identity & Access Management (IAM)": {
+        "views": "29 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Optical Character Recognition (OCR)": {
+        "views": "52 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Business Process Analysis": {
+        "views": "28 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Robotic Process Automation (RPA)?": {
+        "views": "43 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: Quantum-Safe Cryptography, IBM Business Automation and Three Recent Analyst Reports": {
+        "views": "3,4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "SIEM or XDR": {
+        "views": "13 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is a Risk Analytics Center and How Can it Prevent a Security Breach?": {
+        "views": "4,4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Data Quality Explained": {
+        "views": "31 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Risk Analysis - Know Your Threat Tolerance": {
+        "views": "8,3 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: The Latest \"Cost of a Data Breach\" Report": {
+        "views": "2,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Why Implement Zero Trust": {
+        "views": "27 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Supervised vs. Unsupervised Learning": {
+        "views": "124 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Business Process Modeling?": {
+        "views": "63 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "OLAP vs OLTP": {
+        "views": "70 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: New Power10 Servers, IBM MQ Appliance M2003, and Hyper Protect Virtual Servers for VPC": {
+        "views": "2,9 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Data Governance Explained in 5 Minutes": {
+        "views": "125 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What are MLPs (Multilayer Perceptrons)?": {
+        "views": "52 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Monte Carlo Simulation?": {
+        "views": "198 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Risk & Compliance in Data GRC Architecture": {
+        "views": "7,6 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: IBM Wazi as a Service, IBM Spectrum Sentinel, and the G2 Summer Reports": {
+        "views": "3,1 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Overfitting, Underfitting, and Bad Data Are Ruining Your Predictive Models": {
+        "views": "4,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Relational vs. Non-Relational Databases": {
+        "views": "84 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is a Database?": {
+        "views": "58 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Build a better customer experience with data fabric & AI": {
+        "views": "2,3 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Master Data Management": {
+        "views": "56 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Transactional vs. Analytical Workloads": {
+        "views": "8,7 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: IBM Cloud Prep, the IBM Consulting Cloud Accelerator, and the Gartner Magic Quadrant": {
+        "views": "2,6 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is UEM (Unified Endpoint Management)?": {
+        "views": "8,6 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Data Pipelines Explained": {
+        "views": "121 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Data Science?": {
+        "views": "307 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Trustworthy AI?": {
+        "views": "5,8 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is a Digital Worker?": {
+        "views": "5,4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: The Definitive Guide to Ransomware, Event Routing Capabilities and ISCC Pricing Plans": {
+        "views": "1,9 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "How to program a quantum computer using Qiskit": {
+        "views": "49 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Quantum Computing - Qiskit Runtime": {
+        "views": "7,3 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Quantum Computing?": {
+        "views": "137 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Using Tanium Comply in the IBM Cloud Security and Compliance Center": {
+        "views": "2,2 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Neural Networks Explained in 5 minutes": {
+        "views": "158 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: X-Force Red Cloud Testing Services, IBM API Connect-aaS on AWS and TrustRadius Awards": {
+        "views": "1,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Data Governance Explained": {
+        "views": "66 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "No-Code vs Low-Code": {
+        "views": "16 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "No-Code Explained in 3 Minutes": {
+        "views": "21 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Low-Code Explained in 3 minutes": {
+        "views": "26 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Intro to IBM Cloud Security and Compliance Center": {
+        "views": "4,4 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is gRPC? (Remote Procedure Calls)": {
+        "views": "190 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: Think Broadcast 2022 — Featured Speakers, Sessions and On-Demand Labs": {
+        "views": "2,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Explainable AI?": {
+        "views": "26 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is the MERN Stack?": {
+        "views": "11 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Text Mining?": {
+        "views": "17 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: Qiskit Runtime, Free Cloud Training and IBM DataPower Gateway X3": {
+        "views": "2,1 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Knowledge Management?": {
+        "views": "39 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "LAMP Stack Explained in 3 Minutes": {
+        "views": "22 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What tech topics are YOU interested in?": {
+        "views": "2,6 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Data Mining?": {
+        "views": "89 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "IBM Tech Now: IBM z16, Cloud Pak for Watson AIOps v3.3 and the G2 Spring Reports": {
+        "views": "2,5 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Conversational AI?": {
+        "views": "14 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "What is Application Integration?": {
+        "views": "18 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Machine Learning vs Deep Learning": {
+        "views": "547 тыс. просмотров",
+        "published": "1 год назад"
+    },
+    "Data Fabric Explained": {
+        "views": "74 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "SRE Golden Signals Explained": {
+        "views": "16 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Netezza as a Fully Managed Service on Cloud": {
+        "views": "4,6 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "NLP vs NLU vs NLG": {
+        "views": "49 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What are Autoencoders?": {
+        "views": "65 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What are Transformers (Machine Learning Model)?": {
+        "views": "307 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is MySQL?": {
+        "views": "26 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Cybersecurity and Zero Trust": {
+        "views": "72 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Hyperautomation Explained": {
+        "views": "10 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Findings, Analysis and Recommendations from the X-Force Threat Intelligence Index": {
+        "views": "2,4 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What are Business Rules?": {
+        "views": "16 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is In-Memory Computing?": {
+        "views": "25 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Modernize Banking with Cloud Native Solutions infused with AI and ML": {
+        "views": "3,7 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is an RBM (Restricted Boltzmann Machine)?": {
+        "views": "26 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Humans vs. AI: who makes the best decisions?": {
+        "views": "39 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Phishing Kits Found, Bare Metal Servers for VPC and the Security Engineer Specialty": {
+        "views": "2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Modernize Retail Stores with AI-Powered Hybrid Cloud Software": {
+        "views": "1,9 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a Knowledge Graph?": {
+        "views": "74 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Random Forest?": {
+        "views": "67 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Scaling an Online Store Without an API Gateway": {
+        "views": "11 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "The MEAN Stack Explained": {
+        "views": "7 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Into the Breach Podcast, 2022 Digital Transformation Trends, and Databases for MySQL": {
+        "views": "2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Secure App Transactions and Sensitive Data with Cryptographic Key Encryption Protection": {
+        "views": "3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Culture, Trust, and AI": {
+        "views": "8,4 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Database Security?": {
+        "views": "20 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Fluid vs. Crystallized Intelligence": {
+        "views": "17 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "JRE vs. JDK": {
+        "views": "12 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Hybrid Cloud in 2022?": {
+        "views": "10 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a Message Queue?": {
+        "views": "74 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Artificial Intelligence vs. Augmented Intelligence": {
+        "views": "44 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Document Processing?": {
+        "views": "7 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Event Endpoint Management Explained": {
+        "views": "5 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Django?": {
+        "views": "63 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Cloud Storage?": {
+        "views": "44 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "The History of Chatbots": {
+        "views": "11 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Edge AI vs. Distributed AI": {
+        "views": "14 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: IBM Watson Query, Netezza, and IBM Cloud Satellite + Alibaba Cloud": {
+        "views": "3,1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Block vs. File Storage": {
+        "views": "69 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Can computers program computers?": {
+        "views": "5,9 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is CSPM (Cloud Security Posture Management)?": {
+        "views": "17 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Incident management doesn’t have to be a headache": {
+        "views": "1,5 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Elasticsearch?": {
+        "views": "334 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is LSTM (Long Short Term Memory)?": {
+        "views": "149 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Selling on IBM Cloud, Cloud Pak for Watson AIOps 3.2, and the “DoYouMQ?” Podcast": {
+        "views": "3,2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Deliver quality data with a unified data and AI platform": {
+        "views": "2,2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is the MEAN Stack?": {
+        "views": "13 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is VMware?": {
+        "views": "215 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Ensuring AI is fair and unbiased for natural language processing": {
+        "views": "2,5 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How AI is driving the autonomous vehicle revolution": {
+        "views": "6,7 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How to manage your bots with IBM RPA": {
+        "views": "1,1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Using AI and data for predictive planning and supply chain": {
+        "views": "42 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is an MZR? (Multi-Zone Region)": {
+        "views": "3,6 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What are GANs (Generative Adversarial Networks)?": {
+        "views": "184 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: TrySat Automation Tool, DevSecOps Reference Implementation and Securing IBM Accounts": {
+        "views": "3,9 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is CAP Theorem?": {
+        "views": "30 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How to integrate a chatbot with IBM RPA": {
+        "views": "2,8 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Can AI help Climate Change?": {
+        "views": "18 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How to build an AI-driven bot with IBM RPA": {
+        "views": "3,3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a LAMP Stack?": {
+        "views": "33 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Automating interactions with AI-assisted chatbots from IBM RPA": {
+        "views": "2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What can RPA mean for your business?": {
+        "views": "3,8 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "200K IBM Technology subscribers, thank you!": {
+        "views": "1,3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: IBM Community Festival, IBM Process Mining and Cloud Professional Developer Cert v5": {
+        "views": "3,6 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a Relational Database?": {
+        "views": "137 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Enterprise Observability with Context": {
+        "views": "5,3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Assure Performance with Smarter Application Resource Management (ARM)": {
+        "views": "5 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "GitOps on Multicloud Explained": {
+        "views": "8,8 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Building concurrent bots for critical workload help with IBM RPA": {
+        "views": "3,5 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is ETL (Extract, Transform, Load)?": {
+        "views": "89 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: De-Risking the Cloud, FS-Level Controls for Satellite, and a 'Buy One, Get Two' Promo": {
+        "views": "1,8 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Root Cause Analysis (RCA)?": {
+        "views": "56 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What are Convolutional Neural Networks (CNNs)?": {
+        "views": "219 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "AI + bots: Making processes smarter with intelligent bots from IBM RPA": {
+        "views": "2,4 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a Load Balancer?": {
+        "views": "202 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Creating low-code bots for highly repetitive tasks in IBM RPA Studio": {
+        "views": "2,1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is AI Ethics?": {
+        "views": "72 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Cloud for Financial Services, Analytics Engine Serverless Plan, and COS Versioning": {
+        "views": "2,1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is DBaaS? Should you use it?": {
+        "views": "23 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "SQL vs. NoSQL: What's the difference?": {
+        "views": "120 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is an API Gateway?": {
+        "views": "268 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Data Virtualization in Data Fabric": {
+        "views": "19 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Object Storage?": {
+        "views": "84 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Setting up a Bare Metal Server featuring Intel Xeon on IBM Cloud VPC": {
+        "views": "1,7 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Tekton vs. Jenkins: What's the difference?": {
+        "views": "39 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Cloud Without Compromise, Satellite UX Award, and IBM Build-a-Bot Challenge": {
+        "views": "2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Zero Trust Explained in 4 mins": {
+        "views": "130 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Desktop Virtualization?": {
+        "views": "33 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Redis?": {
+        "views": "32 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Managing Edge Devices at Scale: IBM Edge Application Manager": {
+        "views": "2,9 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is MongoDB?": {
+        "views": "44 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Industry Accelerators, Visual Studio Code Extension, and IBM Cloud LinuxONE for VPC": {
+        "views": "2,5 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Why API Management?": {
+        "views": "36 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "No code change approach to confidential computing": {
+        "views": "4,1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Terraform Modules, Cloud Pak for Integration and IBM Cloud Functions Dashboard": {
+        "views": "2,1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Pak for Business Automation: Drive innovation in business operations": {
+        "views": "7,3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is NLP (Natural Language Processing)?": {
+        "views": "174 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is DNS (Domain Name System)?": {
+        "views": "95 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Manage all of your data anywhere with AutoSQL in IBM Cloud Pak for Data": {
+        "views": "4,3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Pak for Network Automation - Evolve to zero-touch operations with AI-powered automation": {
+        "views": "4,2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Pak for Integration in 2 mins": {
+        "views": "10 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Reduce incident resolution time with AIOps": {
+        "views": "5,7 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: IBM Cloud Satellite Infrastructure Service, IBM MQ Version 9.2.3 and New Field Guides": {
+        "views": "2,9 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Data Fabric?": {
+        "views": "27 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "AI-embedded resilience inside RPA": {
+        "views": "3,8 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Intelligent app resource management with AI-powered automation": {
+        "views": "6,4 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Machine Learning?": {
+        "views": "153 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Databases Enabled by Satellite, TLS Certificates Management, & IBM PREVAIL Conference": {
+        "views": "2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Edge Computing helps NASA analyze DNA in Space": {
+        "views": "10 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Satellite Overview": {
+        "views": "8,1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How claims adjusters benefit from insurance claims automation with IBM Cloud Paks": {
+        "views": "1,4 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What are IBM Cloud Paks?": {
+        "views": "21 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Turbonomic Acquisition, 100+ Ecosystem Partners, and a New IBM Cloud Podcast Episode": {
+        "views": "2,4 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a Chatbot?": {
+        "views": "137 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Data Security and Protection with Zero Trust": {
+        "views": "5,6 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Trustworthy AI is crucial for business": {
+        "views": "11 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Enterprise Resource Planning (ERP) Software?": {
+        "views": "66 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: Mayflower Autonomous Ship, Db2 Click to Containerize & Hybrid Subscription Advantage": {
+        "views": "2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Quantum Computing impact on Cryptography": {
+        "views": "18 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Artificial Intelligence for smarter Cybersecurity": {
+        "views": "25 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a Virtual Server?": {
+        "views": "57 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a Data Warehouse?": {
+        "views": "78 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a Dedicated Host?": {
+        "views": "12 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: ICCT and Freelancer, Watson AIOps Customer Advisory Council, and TrustRadius Awards": {
+        "views": "2,3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Ansible vs. Terraform: What's the difference?": {
+        "views": "173 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is a Hypervisor?": {
+        "views": "177 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "The Mayflower Autonomous Ship's journey to transform ocean research using AI and Automation": {
+        "views": "52 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Bare Metal with a Hypervisor vs. Dedicated Host: What's the difference?": {
+        "views": "49 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Event Driven Architecture (EDA)?": {
+        "views": "172 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How CIOs benefit from insurance claims automation with IBM Cloud Paks": {
+        "views": "1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Disaster Recovery vs. Backup: What's the difference?": {
+        "views": "94 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Predict and automate outcomes with IBM Cloud Pak for Data": {
+        "views": "1,8 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "DevOps vs. SRE: What's the difference?": {
+        "views": "62 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Persistent memory for SAP HANA": {
+        "views": "4,3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Site Reliability Engineering (SRE)?": {
+        "views": "124 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "AI and automation power the Mayflower Autonomous Ship": {
+        "views": "10 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Modernize apps with IBM Garage Methodology": {
+        "views": "5,3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: IBM to Acquire myInvenio, IBM Cloud for Education and IBM WebSphere Automation": {
+        "views": "2,7 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How to deploy SAP in the cloud": {
+        "views": "5,3 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Hybrid Cloud?": {
+        "views": "35 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Run containerized workloads on IBM Cloud Code Engine": {
+        "views": "1,4 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Choosing a CSP for your SAP workloads": {
+        "views": "2,6 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Intelligent automation solution for insurance claims with IBM Cloud Paks": {
+        "views": "2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How does Kubernetes create a Pod?": {
+        "views": "65 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: IBM Observability by Instana v1.0.197, Onboard Your Operator, & IBM Cloud HIPAA Guide": {
+        "views": "1,6 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Use AI-Powered Automation to Accelerate Auto Claims Processing": {
+        "views": "3,5 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How to deploy source code with IBM Cloud Code Engine": {
+        "views": "6,2 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How to run batch jobs with IBM Cloud Code Engine": {
+        "views": "1,8 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "How to deploy and manage apps with IBM Cloud Code Engine": {
+        "views": "9 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Getting started with IBM Garage": {
+        "views": "6,1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "IBM Cloud Now: IBM Cloud Code Engine, Dizzion Managed DaaS on IBM Cloud, Data Storage and Processing": {
+        "views": "2,1 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "Software as a Service (SaaS) Explained in 5 mins": {
+        "views": "448 тыс. просмотров",
+        "published": "2 года назад"
+    },
+    "What is Multi-access Edge Computing (MEC)?": {
+        "views": "31 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "vRAN vs. RAN: What's the difference?": {
+        "views": "26 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: Data Replication for Db2WoC, Geo-Replicated Disaster Recovery, and Resource Templates": {
+        "views": "1,9 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is RPA (Robotic Process Automation)?": {
+        "views": "63 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Intro to IBM Cloud Data Shield": {
+        "views": "1,5 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Securely manage your cloud secrets with IBM Cloud Secrets Manager": {
+        "views": "1,8 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: IBM Cloud Satellite, Cloud Pak for Database as a Service, and Ansible Actions": {
+        "views": "2,2 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Satellite Use Cases": {
+        "views": "11 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Setting up an On-Premises Satellite Location with Mini PCs": {
+        "views": "7,7 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Deploy apps and run anywhere with IBM Cloud Satellite": {
+        "views": "12 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: IBM RPA Trial, Palantir for IBM Cloud Pak for Data, and Notifications Updates": {
+        "views": "1,8 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM partners with NASA to develop Edge Computing in space aboard the ISS": {
+        "views": "3,1 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Architecting a Cloud Native API Solution": {
+        "views": "14 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is AIOps?": {
+        "views": "32 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: IBM Cloud Schematics Updates, New Billing Model, and 10% Off Bare Metal Servers": {
+        "views": "2,7 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Observability vs. APM vs. Monitoring": {
+        "views": "139 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is FaaS (Functions as a Service)?": {
+        "views": "75 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Intro to IBM Cloud Hyper Protect Services": {
+        "views": "3,8 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Luminor Bank Adopts IBM Cloud for Financial Services to Accelerate Digital Transformation": {
+        "views": "1,8 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Telefónica, IBM and Red Hat join forces to accelerate digital transformation with open hybrid cloud": {
+        "views": "1,3 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: GitLab Ultimate for IBM Cloud Paks, Security Insights, and WebSphere Hybrid Edition": {
+        "views": "1,8 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Greener World with AI-Powered Automation": {
+        "views": "1,4 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Paks: AI-Powered Software to Advance Digital Transformation": {
+        "views": "1,6 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Make Time for Brilliance with AI-Powered Automation": {
+        "views": "2,7 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: Acquiring Instana, Cloud Pak® for Network Automation, & Cloud Pak® for Watson AIOps": {
+        "views": "2,6 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What are Feature Flags?": {
+        "views": "48 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: IBM a Forrester Leader, GitHub and IBM Partnership, & IBM Cloud Secrets Manager is GA": {
+        "views": "2,4 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Kubernetes Ingress in 5 mins": {
+        "views": "165 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM and Sonoma County use Data and AI to help to change lives": {
+        "views": "1 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is Serverless?": {
+        "views": "170 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: Cryptographic Key Encryption, IBM and Confluent, and IBM Cloud App Configuration": {
+        "views": "2,4 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is Confidential Computing?": {
+        "views": "14 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is Ansible?": {
+        "views": "156 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: Instana Acquisition, myInvenio Partnership, and Lower Prices for RHOS on IBM Cloud": {
+        "views": "2 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "REST API и OpenAPI: это не вопрос \"или-или\"": {
+        "views": "191 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is RabbitMQ?": {
+        "views": "294 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: IBM and AT&T Collaboration, New Partnership with ClearBlade, and Code Risk Analyzer": {
+        "views": "2,5 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Container Security Explained": {
+        "views": "57 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Git против GitHub: в чем разница?": {
+        "views": "363 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: New SAP Certifications, IBM & ServiceNow, and BYOI for Hyper Protect Virtual Servers": {
+        "views": "2,8 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Что такое REST API?": {
+        "views": "1,3 млн просмотров",
+        "published": "3 года назад"
+    },
+    "API против SDK: в чем разница?": {
+        "views": "1,4 млн просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: IBM Center for Cloud Training, IBM Cloud Secrets Manager, and Direct Link 2.0": {
+        "views": "3,4 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Data Warehousing and Beyond with Netezza Performance Server": {
+        "views": "3,1 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Что такое управление API?": {
+        "views": "99 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is a Cloud Shell?": {
+        "views": "13 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: Elevated Body Temperature Monitoring at the Edge, IBM Cloud Code Engine, and More": {
+        "views": "1,8 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is Secrets Management?": {
+        "views": "14 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Что такое Кафка?": {
+        "views": "423 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: Face Mask Detection at the Edge, IBM Cloud Security and Compliance Center, and More": {
+        "views": "2,2 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Контейнеры против виртуальных машин: в чем разница?": {
+        "views": "723 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Keynote at Virtual AI Summit London 2020": {
+        "views": "2,7 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: IBM Cloud Databases for DataStax, Free Cloud Computing Courses, and VMware Promotions": {
+        "views": "2,5 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is etcd?": {
+        "views": "54 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: Custom Dashboards, Multicloud Management v2.0, and VMware Regulated Workloads": {
+        "views": "2 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What is Distributed Cloud?": {
+        "views": "25 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: Cloud for Financial Services Ecosystem, IBM CloudLabs, and a New IBM Collab": {
+        "views": "2,4 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Now: Acquiring WDG Automation, Databases for EnterpriseDB, and the TrustRadius Awards": {
+        "views": "1,8 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "IBM Cloud Object Storage: Built for business": {
+        "views": "3 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Flexibly driving high scale apps in production with Kubernetes": {
+        "views": "2,7 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "AJPBiz helps scale its customers' business operations with IBM Cloud": {
+        "views": "527 просмотров",
+        "published": "3 года назад"
+    },
+    "Client Success Stories: Tripling cloud workload for a large appliance manufacturer": {
+        "views": "475 просмотров",
+        "published": "3 года назад"
+    },
+    "Будущее Edge Computing": {
+        "views": "21 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Cloud Native DevOps Explained": {
+        "views": "35 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "What's new in Red Hat OpenShift 4.3?": {
+        "views": "15 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Deploy OpenShift on VMware": {
+        "views": "8 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Modernizing Log Management with IBM and LogDNA": {
+        "views": "2,9 тыс. просмотров",
+        "published": "3 года назад"
+    },
+    "Modernize with VMware": {
+        "views": "6,2 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Public Cloud Explained": {
+        "views": "84 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Welcome to the IBM Garage": {
+        "views": "11 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Multicloud vs. hybrid cloud and how to manage it all": {
+        "views": "5,5 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Multicloud management: Drive security and save your brand": {
+        "views": "1,2 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Multicloud Security Explained": {
+        "views": "4,5 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Utilizing cloud native workloads to scale services globally": {
+        "views": "791 просмотр",
+        "published": "4 года назад"
+    },
+    "IBM Cloud Now: Edge Application Manager v4.0, Kubernetes v1.17.2 в IBM Cloud и многое другое": {
+        "views": "4,4 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Observability Explained with LogDNA": {
+        "views": "20 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Операторы Kubernetes объяснил": {
+        "views": "95 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Movius and Sprint create a secure and compliant multiline mobile platform with IBM Cloud": {
+        "views": "1 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Adding value to the business through IT": {
+        "views": "575 просмотров",
+        "published": "4 года назад"
+    },
+    "Getting up to speed with today's global education": {
+        "views": "572 просмотра",
+        "published": "4 года назад"
+    },
+    "Transitioning to a new cloud-based solution": {
+        "views": "1,1 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Kubernetes drone demo: Using Istio to manage app traffic": {
+        "views": "2,4 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Kubernetes drone demo: Scaling an application": {
+        "views": "3 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Kubernetes drone demo: Deploying an application": {
+        "views": "2,5 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Kubernetes drone demo: Scheduling infrastructure": {
+        "views": "1,3 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Terraform Explained": {
+        "views": "256 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Защита данных и соответствие с IBM Cloud": {
+        "views": "8,4 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "IaaS Explained": {
+        "views": "163 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Persistent Memory Explained": {
+        "views": "16 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Что такое Helm?": {
+        "views": "320 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Virtual Private Clouds on IBM Cloud": {
+        "views": "9,7 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Разъяснение сервисной сетки Istio": {
+        "views": "157 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "PaaS Explained": {
+        "views": "167 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is Tekton?": {
+        "views": "32 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "IBM public cloud: the most open and secure public cloud for business": {
+        "views": "4,2 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What happens in the IBM Garage": {
+        "views": "9 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Creating a secure and accessible digital workspace with IBM Cloud Virtual Private Cloud": {
+        "views": "1,5 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Cloud Foundry Explained": {
+        "views": "108 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Data Transfer Explained": {
+        "views": "42 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "No Code Needed: IBM App Connect": {
+        "views": "3,3 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Understanding IBM Virtual Private Cloud (VPC)": {
+        "views": "5,7 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "When Innovation Meets Hospitality: Etihad Airline's Digital Transformation": {
+        "views": "4,7 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Transforming digital channels to elevate hospitality": {
+        "views": "710 просмотров",
+        "published": "4 года назад"
+    },
+    "Intro to IBM Cloud for VMware Solutions": {
+        "views": "15 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is edge computing?": {
+        "views": "231 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Why Edge Computing?": {
+        "views": "50 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is Continuous Integration?": {
+        "views": "232 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is Value Stream Management?": {
+        "views": "30 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is Continuous Delivery?": {
+        "views": "109 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Continuous Deployment vs. Continuous Delivery": {
+        "views": "83 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Модернизация приложений: три преобразования одновременно": {
+        "views": "44 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is Cloud Security?": {
+        "views": "235 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is Continuous Testing?": {
+        "views": "54 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Cementos Pacasmayo achieves operational excellence to open up new construction markets": {
+        "views": "1,5 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is Continuous Improvement?": {
+        "views": "15 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is DevSecOps?": {
+        "views": "76 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Multitenancy Explained": {
+        "views": "78 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Sensitive data streaming security offered by IBM Cloud Hyper Protect Services, built on IBM LinuxOne": {
+        "views": "861 просмотр",
+        "published": "4 года назад"
+    },
+    "What is DevOps?": {
+        "views": "155 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Serving digital ads faster using IBM Cloud Kubernetes Service": {
+        "views": "524 просмотра",
+        "published": "4 года назад"
+    },
+    "IBM Cloud stability offers unparalleled uptime for customers": {
+        "views": "457 просмотров",
+        "published": "4 года назад"
+    },
+    "DXC Technology: Taking the pain out of workers' compensation": {
+        "views": "1,6 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "NAT and Firewall Explained": {
+        "views": "89 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Virtual Networking Explained": {
+        "views": "87 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Tencent Building an Enterprise Cloud with IBM": {
+        "views": "1,4 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Intelligence Retail: Empowering data-driven decision making": {
+        "views": "2,2 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Asteria uses IBM Cloud and AI to forecast cashflow": {
+        "views": "1,7 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Talium: Helping Irene Energy deliver electricity to Africa": {
+        "views": "463 просмотра",
+        "published": "4 года назад"
+    },
+    "Techwave teaming with IBM to navigate digital transformation": {
+        "views": "2,6 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "ECi Software Solutions: Transforming the customer experience": {
+        "views": "896 просмотров",
+        "published": "4 года назад"
+    },
+    "What is Infrastructure as Code?": {
+        "views": "128 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "IBM Cloud Pak for Integration: Under the Hood": {
+        "views": "10 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Data Lakes in the Cloud": {
+        "views": "42 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "IBM and Red Hat: Our ecosystems of partners": {
+        "views": "501 просмотр",
+        "published": "4 года назад"
+    },
+    "IBM and Red Hat: Committed to open source": {
+        "views": "1,7 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Введение в Red Hat OpenShift в облаке IBM": {
+        "views": "32 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Экскурсия по Red Hat OpenShift в облаке IBM": {
+        "views": "29 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Что такое OpenShift?": {
+        "views": "617 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Kubernetes и OpenShift: в чем разница?": {
+        "views": "290 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "IBM + Red Hat": {
+        "views": "30 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Hybrid Multicloud Use Cases": {
+        "views": "12 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Blockchain Explained": {
+        "views": "220 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Data Migration Examples": {
+        "views": "81 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Merlin International: Building a world-class security solution": {
+        "views": "686 просмотров",
+        "published": "4 года назад"
+    },
+    "CVS Health: A modern approach to hybrid cloud integration": {
+        "views": "1 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Primerica: Conquering enterprise modernization": {
+        "views": "1,1 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Using SQL to Combine Databases and Object Storage": {
+        "views": "6,7 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Big Data Explained": {
+        "views": "32 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "FaceMe uses GPU solutions and IBM Watson Analytics to create digital humans": {
+        "views": "1,1 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Managing higher education on IBM Cloud with Jenzabar": {
+        "views": "883 просмотра",
+        "published": "4 года назад"
+    },
+    "What is a Virtual Private Cloud?": {
+        "views": "86 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "A Celebration of IBM Cloud Customers": {
+        "views": "1 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Mueller, Inc: Building new channels with IBM Garage": {
+        "views": "1,1 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "CouchDB Explained": {
+        "views": "46 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Cybersecurity in KONE’s 24/7 connected services": {
+        "views": "595 просмотров",
+        "published": "4 года назад"
+    },
+    "What is a Data Lake?": {
+        "views": "214 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is Cloud Migration?": {
+        "views": "84 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is a Content Delivery Network (CDN)?": {
+        "views": "279 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is Multicloud? How Do You Manage It?": {
+        "views": "57 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Что такое Cloud Native?": {
+        "views": "132 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Veeam Backup": {
+        "views": "22 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Преимущества управляемых Kubernetes": {
+        "views": "18 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "What is a DDoS Attack?": {
+        "views": "99 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "NexJ uses IBM Cloud to deliver CRM for wealth management as a service": {
+        "views": "1,1 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Развертывание Kubernetes: начните быстро": {
+        "views": "48 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Объяснение контейнера": {
+        "views": "201 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "IBM Cloud App Service: Build a Java web app with Spring and deploy to Kubernetes": {
+        "views": "6 тыс. просмотров",
+        "published": "4 года назад"
+    },
+    "Virtualization Explained": {
+        "views": "657 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "IBM Cloud Direct Link provides fast, secure and reliable performance for hybrid workloads": {
+        "views": "4,4 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Mass Data Migration provides a fast, simple and secure way to transfer data to the IBM Cloud": {
+        "views": "1,7 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "GPUs: Explained": {
+        "views": "276 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Empowering global software development with high-speed data transfers": {
+        "views": "1,2 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Объяснение контейнеров": {
+        "views": "674 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Simplify application monitoring with SRE Golden Signals": {
+        "views": "12 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Kubernetes объяснил": {
+        "views": "587 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Hybrid Cloud Architecture Part 3: Security": {
+        "views": "17 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "What are Microservices?": {
+        "views": "247 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Block Storage vs. File Storage": {
+        "views": "100 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Hybrid Cloud Architecture Part 2: Modernize": {
+        "views": "20 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "IBM Aspera Drive enables high-speed collaboration from your desktop": {
+        "views": "2,7 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "XComP builds a platform to analyze academic competency with the IBM Cloud Garage": {
+        "views": "676 просмотров",
+        "published": "5 лет назад"
+    },
+    "AirWire enables intelligent vehicles with the IBM Cloud Garage": {
+        "views": "797 просмотров",
+        "published": "5 лет назад"
+    },
+    "Hybrid Cloud Architecture Part 1: Connectivity": {
+        "views": "51 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Hybrid Cloud Architecture: Introduction": {
+        "views": "23 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "KONE runs 24/7 predictive maintenance with IBM AI and serverless tech": {
+        "views": "2,3 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Plan, build and manage your cloud Infrastructure with IBM": {
+        "views": "12 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Everyone knew the stakes were high": {
+        "views": "1,2 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Developing in IBM Cloud": {
+        "views": "35 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "FOX Sports Wins 2018 World Cup TV Coverage with IBM Aspera": {
+        "views": "1,1 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Что такое Knative?": {
+        "views": "66 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Объяснение гибридного облака": {
+        "views": "116 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Close the app development gap": {
+        "views": "893 просмотра",
+        "published": "5 лет назад"
+    },
+    "The Weather Company migrates to a secure, scalable global architecture in the IBM Cloud": {
+        "views": "3,1 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Что такое Истио?": {
+        "views": "105 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "What is SAP HANA?": {
+        "views": "222 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "IBM Aspera on Cloud helps organizations quickly move data of all sizes": {
+        "views": "5,9 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Boost your enterprise workloads with IBM Cloud Internet Services Enterprise Plans": {
+        "views": "860 просмотров",
+        "published": "5 лет назад"
+    },
+    "Кубернетес против Докер: это не вопрос": {
+        "views": "1 млн просмотров",
+        "published": "5 лет назад"
+    },
+    "Rethink scalable computing with HPCaaS from Rescale on IBM Cloud": {
+        "views": "407 просмотров",
+        "published": "5 лет назад"
+    },
+    "Accelerate AI and HPC workloads with NVIDIA GPUs on IBM Cloud": {
+        "views": "1,1 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Into the eye: Reunited across the path of a hurricane": {
+        "views": "400 просмотров",
+        "published": "5 лет назад"
+    },
+    "Questions finishing home loan applications? UBank's RoboChat can help.": {
+        "views": "3 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Focus on your app development instead of on database management with Cloudant": {
+        "views": "1,6 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "RoadLaunch uses IBM Cloud to gain a competitive advantage in the transportation industry": {
+        "views": "569 просмотров",
+        "published": "5 лет назад"
+    },
+    "KONE runs 24/7 predictive management with IBM AI and serverless tech": {
+        "views": "3,6 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Experience the power of SAP on IBM Cloud bare metal": {
+        "views": "1,2 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "IBM Aspera Overview: Moving the World's Data at Maximum Speed": {
+        "views": "12 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Fulcrum enables operational excellence for global law firms": {
+        "views": "1,1 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Websphere: The most important decision you will make in your application modernization journey": {
+        "views": "1,5 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "ThinkResearch uses IBM Cloud to deliver the best medical information at the point of care": {
+        "views": "1,1 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Banks team with IBM for blockchain-powered trade finance": {
+        "views": "2 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "IBM MQ has you covered": {
+        "views": "4,2 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "Explore the Cloud for Smarter Business": {
+        "views": "1 тыс. просмотров",
+        "published": "5 лет назад"
+    },
+    "IBM Cloud flies with American Airlines": {
+        "views": "54 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Cloud adoption and transformation": {
+        "views": "6,3 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "The Nature of Tech: Digital Business Automation": {
+        "views": "2,5 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Voice Agent with Watson": {
+        "views": "5,7 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM MQ: Running your world": {
+        "views": "8,6 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Fear DDoS attacks? Worry no more.": {
+        "views": "2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Virtual gaming with IBM Cloud": {
+        "views": "5,3 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Get to know IBM Cloud Integration": {
+        "views": "6,9 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Case Manager and IBM Datacap accelerate the insurance claim process": {
+        "views": "1,8 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to get started with IBM Content Foundation": {
+        "views": "1,7 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Datacap Insight Edition - document capture for the cognitive era": {
+        "views": "7 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Turkcell Global Bilgi - an IBM Datacap story": {
+        "views": "606 просмотров",
+        "published": "6 лет назад"
+    },
+    "Blueprint Genetics - speeding diagnoses with IBM Case Manager": {
+        "views": "401 просмотр",
+        "published": "6 лет назад"
+    },
+    "IBM case and document capture for government": {
+        "views": "716 просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM case & document capture for insurance": {
+        "views": "567 просмотров",
+        "published": "6 лет назад"
+    },
+    "Stay engaged and efficient on the go with IBM Case Manager": {
+        "views": "315 просмотров",
+        "published": "6 лет назад"
+    },
+    "Improving your customer experience with IBM mobile document capture": {
+        "views": "631 просмотр",
+        "published": "6 лет назад"
+    },
+    "Do you have a cloud designed for data?": {
+        "views": "1,5 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Do business with bare metal": {
+        "views": "3,5 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Streams: Turn real-time data into real-time insights": {
+        "views": "830 просмотров",
+        "published": "6 лет назад"
+    },
+    "Acquire, Analyze and Act in Real Time with IBM Streams": {
+        "views": "2,5 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Secure the container platform by building a chain of trust": {
+        "views": "832 просмотра",
+        "published": "6 лет назад"
+    },
+    "Accelerate cloud native development": {
+        "views": "1,4 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Netflix & Sony Pictures Rely on Aspera to Drive Key Media Workflows": {
+        "views": "2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Berlinale Film Festival Delivers 400 Full-Length Features with Aspera": {
+        "views": "485 просмотров",
+        "published": "6 лет назад"
+    },
+    "Aspera Drive: Quickly Share & Sync Large Files & Folders From Your Desktop": {
+        "views": "2,5 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "UFC Uses Aspera as the Backbone of its Digital Asset Management System": {
+        "views": "748 просмотров",
+        "published": "6 лет назад"
+    },
+    "Rainmaker Enables Fast & Reliable Media File Transfers & Collaboration": {
+        "views": "394 просмотра",
+        "published": "6 лет назад"
+    },
+    "Sundance Film Festival Automates Delivery of 12,000 Films Globally with Aspera": {
+        "views": "1,1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Develop with IBM Cloud App Service": {
+        "views": "724 просмотра",
+        "published": "6 лет назад"
+    },
+    "Robotic Process Automation (RPA) bots in action": {
+        "views": "241 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Change the way you work-- IBM Cloud Garage": {
+        "views": "1,9 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Cloud Automation Manager Offering Overview": {
+        "views": "1,2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Cloud Object Storage - flexible storage built for rapid change": {
+        "views": "8,1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Introducing IBM Cloud App ID": {
+        "views": "11 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Your Dev Cycle is Too Slow; Here’s How to Fix It": {
+        "views": "514 просмотров",
+        "published": "6 лет назад"
+    },
+    "How IBM Agile Lifecycle Manager Streamlines Service Delivery": {
+        "views": "2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Cloud Object Storage: Do more with your data on IBM Cloud.": {
+        "views": "2,1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Why IBM Runbook Automation Makes IT Ops Teams Efficient": {
+        "views": "3,2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "There's No Place Like Gnome for Cloud Integration for Salesforce": {
+        "views": "675 просмотров",
+        "published": "6 лет назад"
+    },
+    "Take Your Next Step in the API Economy": {
+        "views": "2,9 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Watson Knowledge Catalog (formerly Data Catalog)": {
+        "views": "7,3 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "What is Watson Data Platform?": {
+        "views": "4,5 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Analytics Engine Overview": {
+        "views": "2,8 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Bring apps to market faster with Inversoft Passport on IBM Cloud": {
+        "views": "349 просмотров",
+        "published": "6 лет назад"
+    },
+    "Transform your data with IBM Garage's Data Science Insights MVP": {
+        "views": "748 просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Fitness Solution: Motivating employees to get active": {
+        "views": "2,7 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "dataxu builds its digital marketing management platform on the IBM Cloud Bare Metal infrastructure": {
+        "views": "854 просмотра",
+        "published": "6 лет назад"
+    },
+    "Gear up with virtual servers": {
+        "views": "2,7 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Solution Providers: Partner with IBM Cloud to Win the Future": {
+        "views": "1,8 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Client Story: KDDI - Achieving carrier-grade reliability": {
+        "views": "706 просмотров",
+        "published": "6 лет назад"
+    },
+    "Client Story: Sky – Managing Rapid Data Growth": {
+        "views": "663 просмотра",
+        "published": "6 лет назад"
+    },
+    "Client Story: Hogarth – Facilitating Global Collaboration": {
+        "views": "1,2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Cloud Object Storage – Flexible Storage for Today’s Unstructured Data Needs": {
+        "views": "1,8 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How IBM MQ Advanced Security Protects Data From Hacks": {
+        "views": "2,3 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM DataPower Gateway Continuous Integration With Jenkins": {
+        "views": "3 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "API Policy Development with DataPower in API Connect Toolkit": {
+        "views": "3,9 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Quick Root Cause Analysis with DataPower Operations Dashboard": {
+        "views": "2,2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Process modeling in the cloud with IBM Blueworks Live": {
+        "views": "2,4 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Cambridgeshire Fire and Rescue Service improves operations with IBM BPM on Cloud": {
+        "views": "684 просмотра",
+        "published": "6 лет назад"
+    },
+    "IBM's Hybrid IT Operations Management solution with AIOps": {
+        "views": "2,5 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How Integration Improves Travelers’ Experiences": {
+        "views": "341 просмотр",
+        "published": "6 лет назад"
+    },
+    "Integration Lets Customers Shop on Apps, Social Media & More": {
+        "views": "355 просмотров",
+        "published": "6 лет назад"
+    },
+    "How PSD2 Changed the Way Banks Use APIs": {
+        "views": "4,2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Track What Is Running on Your Cloud": {
+        "views": "476 просмотров",
+        "published": "6 лет назад"
+    },
+    "How Companies Create Customer Experiences With APIs": {
+        "views": "2,5 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Detect significant trends and act in real-time with IBM ODM Advanced": {
+        "views": "382 просмотра",
+        "published": "6 лет назад"
+    },
+    "IBM Operational Decision Manager on Cloud demonstration": {
+        "views": "4,1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM DataPower Dashboard: An Introduction": {
+        "views": "6,6 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How IBM DataPower Gateways Boosts Your Mobile, IoT & More": {
+        "views": "799 просмотров",
+        "published": "6 лет назад"
+    },
+    "Use IBM DataPower Gateway to Connect Apps to Microservices": {
+        "views": "4 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How IBM DataPower Secures APIs, Mobile, Cloud and More": {
+        "views": "23 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to See Real Time Updates in DataPower Gateways": {
+        "views": "603 просмотра",
+        "published": "6 лет назад"
+    },
+    "Jordan Electric Power Company Selects IBM Cloud to transform its IT & SAP infrastructure": {
+        "views": "339 просмотров",
+        "published": "6 лет назад"
+    },
+    "Rational Development & Test Environment for System z": {
+        "views": "1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Overcome Two Blockchain Challenges With IBM MQ": {
+        "views": "2,1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Reduce license cost and audit exposure": {
+        "views": "241 просмотр",
+        "published": "6 лет назад"
+    },
+    "Life Of an IT Operator": {
+        "views": "1,7 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Business Monitor demo": {
+        "views": "1,9 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Getting Started with Process Federation in IBM Business Process Manager 8.5.7": {
+        "views": "1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Getting started with Process Portal in IBM Business Process Manager 8.5.7": {
+        "views": "5,7 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Theme support in IBM Business Process Manager 8.5.7": {
+        "views": "2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Grid support in IBM Business Process Manager 8.5.7": {
+        "views": "1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Deploy and run your decisions in the cloud with Business Rules service for IBM Bluemix": {
+        "views": "454 просмотра",
+        "published": "6 лет назад"
+    },
+    "Cognitive ITSM: Keep your hybrid environment up and running": {
+        "views": "200 просмотров",
+        "published": "6 лет назад"
+    },
+    "Creating custom standard drivers in IBM Tivoli Netcool Configuration Manager": {
+        "views": "1,8 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Travis Perkins plc transforms the customer experience with IBM BPM": {
+        "views": "695 просмотров",
+        "published": "6 лет назад"
+    },
+    "Fraud detection and prevention with IBM Operational Decision Manager": {
+        "views": "3,8 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Business Process Manager on Cloud - overview demo": {
+        "views": "5,8 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Operational Decision Manager on Cloud - overview demo": {
+        "views": "2,3 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "WestJet and IBM - using business rules to deliver an exceptional travel experience": {
+        "views": "920 просмотров",
+        "published": "6 лет назад"
+    },
+    "Carlsberg-Denmark optimizes customer service with IBM business process software": {
+        "views": "1,2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Improving tourism with IBM Operational Decision Manager Advanced": {
+        "views": "1,1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "NHS Blood and Transplant - an IBM process automation client journey": {
+        "views": "1,4 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Using decision management to act on insights from Twitter data": {
+        "views": "379 просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Operational Decision Manager on Cloud - an overview": {
+        "views": "1,1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM ODM on Cloud: business rules for everyone": {
+        "views": "484 просмотра",
+        "published": "6 лет назад"
+    },
+    "Creval Sistemi e Servizi - enhancing customer service with IBM Business Process Management": {
+        "views": "272 просмотра",
+        "published": "6 лет назад"
+    },
+    "Starwood Hotels and Resorts - redefining the guest experience with IBM Operational Decision Manager": {
+        "views": "686 просмотров",
+        "published": "6 лет назад"
+    },
+    "Barclays - improving customer experiences with IBM Business Process Manager and IBM Blueworks Live": {
+        "views": "2,9 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM BPM Wave - driving digital transformation for banking solutions": {
+        "views": "753 просмотра",
+        "published": "6 лет назад"
+    },
+    "ODF Energia streamlines compliance in a deregulated market with IBM BPM software": {
+        "views": "526 просмотров",
+        "published": "6 лет назад"
+    },
+    "Why to use the Business Rules service for IBM Bluemix": {
+        "views": "422 просмотра",
+        "published": "6 лет назад"
+    },
+    "Process automation strategy and customer-centricity at IBM": {
+        "views": "2,2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Process Made Simple with IBM Blueworks Live": {
+        "views": "17 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Deployment Automation with IBM UrbanCode Deploy": {
+        "views": "19 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "API Management in 10 Seconds": {
+        "views": "2,9 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Create & Control APIs in OpenWhisk": {
+        "views": "1,5 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Secure APIs Using OAuth in API Connect": {
+        "views": "17 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How a Biz Uses API Connect & Bluemix to Secure & Manage Apps": {
+        "views": "1,1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Create and Control APIs in OpenWhisk": {
+        "views": "1,4 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Real time API Analytics With Splunk, SAP & Others": {
+        "views": "2,7 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Configure Writable LDAP in the Developer Portal": {
+        "views": "3,2 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Create an API that Rewrites URLs": {
+        "views": "4,1 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Create a REST API to SOA Service": {
+        "views": "7,8 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Connect to MongoDB With LoopBack": {
+        "views": "9,9 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Consume APIs With the Developer Portal": {
+        "views": "11 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "What's the Difference Between APIs, Services and Microservices?": {
+        "views": "108 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "How to Create and Test APIs With the API Designer": {
+        "views": "29 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "Top API Use Cases": {
+        "views": "11 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Voice Gateway: the cognitive call center solution": {
+        "views": "5,7 тыс. просмотров",
+        "published": "6 лет назад"
+    },
+    "IBM Cloud Hero: Runkeeper": {
+        "views": "47 тыс. просмотров",
+        "published": "8 лет назад"
+    },
+    "IBM Cloud: Pioneering Digital Transformation": {
+        "views": "630 просмотров",
+        "published": "8 лет назад"
+    },
+    "IBM Transforms Enterprises through the Cloud": {
+        "views": "410 просмотров",
+        "published": "8 лет назад"
+    },
+    "IBM Cloud: A Spectrum of Capabilities": {
+        "views": "707 просмотров",
+        "published": "8 лет назад"
+    }
+}
