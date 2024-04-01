@@ -1,6 +1,5 @@
 import requests
 import os
-import shutil
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from selenium import webdriver
@@ -14,9 +13,10 @@ import csv
 
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 YaBrowser/24.1.0.0 Safari/537.36'
 main_page_url = "https://unsplash.com"
+
 chrome_options = Options()
 chrome_options.add_argument(f'user-agent={USER_AGENT}')
-chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
+chrome_options.add_argument('--ignore-certificate-errors')
 browser = webdriver.Chrome()
 options = webdriver.ChromeOptions()
 
@@ -25,8 +25,12 @@ def main() -> None:
     pages_urls = getting_category_urls(main_page_url)
     category_names = getting_category_names(main_page_url)
     
-    save_data_to_json(parse_category_page(category_names=category_names, category_urls=pages_urls))
-    save_data_to_csv(parse_category_page(category_names=category_names, category_urls=pages_urls))
+    unsplash_data_dict = parse_category_page(category_names=category_names, category_urls=pages_urls)
+
+    save_data_to_json(unsplash_data_dict)
+    save_data_to_csv(unsplash_data_dict)
+
+    browser.quit()
 
 
 def getting_category_urls(main_page_url: str) -> list:
@@ -58,10 +62,12 @@ def getting_category_names(main_page_url: str) -> list:
 
 
 def parse_category_page(category_names: list, category_urls: list) -> dict:
+    data_dict = {}
+
     for indx, link in enumerate(category_urls):
-        data_dict = {
-            category_names[indx]: [parse_photo_page(p_url) for p_url in get_full_page(link)]
-        }
+        k = category_names[indx]
+        data_dict[k] = [parse_photo_page(p_url) for p_url in get_full_page(link)]
+
     return data_dict
 
 
@@ -92,15 +98,18 @@ def get_full_page(url: str):
 
     except Exception as E:
         print(f'Произошла ошибка, {E}')
-    finally:
-        browser.quit()
+        
     return links
 
 
 def parse_photo_page(url: str) -> dict:
     photo_page = requests.get(url)
     page = BeautifulSoup(photo_page.content, 'html.parser')
-    name = page.find('h1').text
+    name_el = page.find('h1')
+    if name_el is not None:
+        name = page.find('h1').text
+    else:
+        name = "A Photo Without Name"
     sub_list = []
     subcategories = page.find("div", {"class": "MbPKr M5vdR"}).find_all("div", {"class": "VZRk3 rLPoM"})
     for sub in subcategories:
@@ -145,9 +154,15 @@ def save_data_to_json(data: dict) -> None:
 
 def save_data_to_csv(data: dict) -> None:
     with open("Unsplash_v2.csv", "w", encoding="utf-8", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=["quote", "author"])
+        writer = csv.DictWriter(file, fieldnames=["Category", "Name", "Subcategories", "URL", "Local path"])
         writer.writeheader()
-        writer.writerows(data)
+
+        for key, value in data.iteritems():
+            row = [key]
+            for row_k, row_v in value.iteritems():
+                row.append(row_k)
+                row.extend([v for v in row_v])
+            writer.writerow(row)
 
 
 if __name__ == "__main__":
