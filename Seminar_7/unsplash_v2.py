@@ -16,7 +16,10 @@ USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTM
 main_page_url = "https://unsplash.com"
 chrome_options = Options()
 chrome_options.add_argument(f'user-agent={USER_AGENT}')
+chrome_options.add_experimental_option('excludeSwitches', ['enable-logging'])
 browser = webdriver.Chrome()
+options = webdriver.ChromeOptions()
+
 
 def main() -> None:
     pages_urls = getting_category_urls(main_page_url)
@@ -81,13 +84,11 @@ def get_full_page(url: str):
                 break
             last_height = new_height
 
-        cat_page = BeautifulSoup(requests.get(url).content, 'html.parser')
-
         links = []
-        page_path = cat_page.find("div", {'class': 'ripi6'}).find_all('figure')
-        for row in page_path:
-            for el in row.find_all('a', {'itemprop':  "contentUrl"}):
-                links.append(urljoin(url.split("/t")[0], el.get('href')))
+        pages_paths = '//div[@class="ripi6"]/figure//div[@class="zmDAx"]/a'
+        pages_links = browser.find_elements(By.XPATH, pages_paths)
+        for el in pages_links:
+            links.append(el.get_attribute('href'))
 
     except Exception as E:
         print(f'Произошла ошибка, {E}')
