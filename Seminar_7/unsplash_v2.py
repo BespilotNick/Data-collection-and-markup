@@ -154,19 +154,16 @@ def save_data_to_json(data: dict) -> None:
 
 def save_data_to_csv(data: dict) -> None:
     with open("Unsplash_v2.csv", "w", encoding="utf-8", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=["Category", "Name", "Subcategories", "URL", "Local path"])
+        writer = csv.DictWriter(file, fieldnames=["Category", "Name", "Subcategories", "Image_url", "Local_path"])
         writer.writeheader()
 
         for key, sublist in data.items():
-            row = [key]
             for i in range(len(sublist)):
+                row = {}
+                row["Category"] = key
                 for row_k, row_v in sublist[i].items():
-                    row.append(row_k)
-                    if isinstance(row_v, list):
-                        row.extend(v for v in row_v ) 
-                    else:
-                        row.append(row_v)
-            writer.writerow(row)
+                    row[row_k] = row_v
+                writer.writerow(row)
 
 
 if __name__ == "__main__":
