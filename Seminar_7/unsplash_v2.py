@@ -157,11 +157,15 @@ def save_data_to_csv(data: dict) -> None:
         writer = csv.DictWriter(file, fieldnames=["Category", "Name", "Subcategories", "URL", "Local path"])
         writer.writeheader()
 
-        for key, value in data.iteritems():
+        for key, sublist in data.items():
             row = [key]
-            for row_k, row_v in value.iteritems():
-                row.append(row_k)
-                row.extend([v for v in row_v])
+            for i in range(len(sublist)):
+                for row_k, row_v in sublist[i].items():
+                    row.append(row_k)
+                    if isinstance(row_v, list):
+                        row.extend(v for v in row_v ) 
+                    else:
+                        row.append(row_v)
             writer.writerow(row)
 
 
